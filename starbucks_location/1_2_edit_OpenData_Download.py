@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 19 04:22:02 2025
-
-@author: tuesv
-"""
-
 import pandas as pd
 
 # 시군구별 주민등록인구 데이터: report.txt
@@ -54,4 +47,3 @@ df_final.columns = ['시군구명', '종사자수', '사업체수']
 # 인덱스 초기화
 df_final = df_final.reset_index(drop=True)
 df_final.to_excel('./files/sgg_biz.xlsx', index=False)
-
