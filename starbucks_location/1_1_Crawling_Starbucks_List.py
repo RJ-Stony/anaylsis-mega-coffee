@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 19 04:22:02 2025
-
-@author: tuesv
-"""
-
 # 크롤링을 이용한 서울시 스타벅스 매장 목록 데이터 생성
 from selenium import webdriver
 from bs4 import BeautifulSoup
