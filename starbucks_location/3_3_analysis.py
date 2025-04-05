@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Feb 19 04:24:08 2025
-
-@author: tuesv
-
 매장 수와 한국인 인구수 비교
 매장 수와 외국인 인구수 비교
 매장 수와 업종별 종사자 수 비교
@@ -33,4 +28,3 @@ folium.Choropleth(geo_data=seoul_geo,
                   key_on='properties.SIG_KOR_NM').add_to(choropleth)
 
 choropleth.save('건설업.html')
-
