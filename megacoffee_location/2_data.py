@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 19 19:11:21 2025
-
-@author: Roh Jun Seok
-"""
 import pandas as pd
 
 # 시군구 목록 데이터 불러오기
@@ -29,4 +23,3 @@ seoul_sgg
 
 # 병합 결과 엑셀로 저장
 seoul_sgg.to_excel('./files/seoul_MGC_stat.xlsx', index=False)
-
