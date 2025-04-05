@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 19 19:16:35 2025
-
-@author: Roh Jun Seok
-"""
-
 import pandas as pd
 import folium
 import json
