@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Feb 19 16:15:54 2025
-
-@author: Roh Jun Seok
-
 매장 수와 한국인 인구수 비교
 매장 수와 외국인 인구수 비교
 매장 수와 업종별 종사자 수 비교
