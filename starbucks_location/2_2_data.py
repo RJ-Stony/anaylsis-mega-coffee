@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 19 04:22:02 2025
-
-@author: tuesv
-"""
-
 import pandas as pd
 
 # 시군구 목록 데이터 불러오기
